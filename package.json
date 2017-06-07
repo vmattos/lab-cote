@@ -8,5 +8,8 @@
     "start": "node conversion-client"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cote": "^0.14.1"
+  }
 }
